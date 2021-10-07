@@ -24,7 +24,6 @@ This is part of our capstone project in our MS in Data Science course at Northea
 
 ## Tuning the accuracy
 A sentence or paragraph is to be provided as an input
-The saved model is loaded
 
 ## References
 
