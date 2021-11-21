@@ -5,7 +5,7 @@ Title: Generating monologue of political speeches
 Some of the most important speeches are the ones that national leaders make for political reasons.
 They are extremely powerful as they directly impact the lives of not only the citizens of the country
 but also international relations with other nations and their masses as well. Throughout history,
-we have noticed political speeches being used to motivate the population, begin revolutionary movements, even start and end wars.
+we have noticed political speeches being used to motivate the population, begin revolutionary movements, even start and end wars.
 The reason why political speeches are so powerful is twofold. Firstly, the script itself is designed and
 written in such a way that it stirs the emotions of the audience and leaves them thinking or wanting
 to act. Secondly, the political leader is a great orator. He/She/They/Them deliver the speech in
